@@ -1,4 +1,4 @@
-# README: Wine Quality Prediction using ANN with MLflow and Hyperopt
+# Wine Quality Prediction using ANN with MLflow and Hyperopt
 
 ## Project Overview
 This project demonstrates how to train an Artificial Neural Network (ANN) to predict wine quality using the UCI Wine Quality dataset. The focus is on leveraging MLflow for tracking experiments and Hyperopt for hyperparameter tuning. The ANN is trained using the SGD optimizer, where learning rate (`lr`) and momentum are optimized.
