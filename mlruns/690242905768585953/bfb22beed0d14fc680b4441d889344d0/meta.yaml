@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/bfb22beed0d14fc680b4441d889344d0/artifacts
+end_time: 1734440717175
+entry_point_name: ''
+experiment_id: '690242905768585953'
+lifecycle_stage: active
+run_id: bfb22beed0d14fc680b4441d889344d0
+run_name: clean-slug-519
+run_uuid: bfb22beed0d14fc680b4441d889344d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734440691682
+status: 3
+tags: []
+user_id: VS70

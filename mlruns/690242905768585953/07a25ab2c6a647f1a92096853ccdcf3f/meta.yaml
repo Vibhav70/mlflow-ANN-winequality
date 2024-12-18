@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/07a25ab2c6a647f1a92096853ccdcf3f/artifacts
+end_time: 1734440749268
+entry_point_name: ''
+experiment_id: '690242905768585953'
+lifecycle_stage: active
+run_id: 07a25ab2c6a647f1a92096853ccdcf3f
+run_name: bald-skink-610
+run_uuid: 07a25ab2c6a647f1a92096853ccdcf3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734440739046
+status: 3
+tags: []
+user_id: VS70

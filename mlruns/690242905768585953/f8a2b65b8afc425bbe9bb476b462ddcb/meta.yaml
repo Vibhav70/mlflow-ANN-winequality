@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/f8a2b65b8afc425bbe9bb476b462ddcb/artifacts
+end_time: 1734440727900
+entry_point_name: ''
+experiment_id: '690242905768585953'
+lifecycle_stage: active
+run_id: f8a2b65b8afc425bbe9bb476b462ddcb
+run_name: angry-squid-180
+run_uuid: f8a2b65b8afc425bbe9bb476b462ddcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734440717221
+status: 3
+tags: []
+user_id: VS70

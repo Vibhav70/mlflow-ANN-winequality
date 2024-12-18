@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/d7ab28fd49bb46348c708a74c4ffa067/artifacts
+end_time: 1734440738999
+entry_point_name: ''
+experiment_id: '690242905768585953'
+lifecycle_stage: active
+run_id: d7ab28fd49bb46348c708a74c4ffa067
+run_name: useful-mare-598
+run_uuid: d7ab28fd49bb46348c708a74c4ffa067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734440727943
+status: 3
+tags: []
+user_id: VS70

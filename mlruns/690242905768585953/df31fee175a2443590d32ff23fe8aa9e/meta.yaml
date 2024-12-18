@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/df31fee175a2443590d32ff23fe8aa9e/artifacts
+end_time: 1734440656597
+entry_point_name: ''
+experiment_id: '690242905768585953'
+lifecycle_stage: active
+run_id: df31fee175a2443590d32ff23fe8aa9e
+run_name: rumbling-fish-956
+run_uuid: df31fee175a2443590d32ff23fe8aa9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734440656547
+status: 4
+tags: []
+user_id: VS70

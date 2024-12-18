@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734441265181
+current_stage: None
+description: ''
+last_updated_timestamp: 1734441265181
+name: final_model
+run_id: f8a2b65b8afc425bbe9bb476b462ddcb
+run_link: ''
+source: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/f8a2b65b8afc425bbe9bb476b462ddcb/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/devops/mlflow-ann-project/mlruns/690242905768585953/f8a2b65b8afc425bbe9bb476b462ddcb/artifacts/model
+user_id: null
+version: 1
